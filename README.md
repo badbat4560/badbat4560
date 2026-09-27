@@ -2,7 +2,7 @@
 
 # Yuri Pocepaev
 
-**LLM Engineer · Lead Developer at [Neuroprem](https://neuroprem.ru)**
+**LLM Engineer · Lead Developer at [Neuroprem](https://neuroprem.com)**
 
 I work on LLM quantization, efficient inference, retrieval and memory for agentic systems. I share practical runtime fixes, reproducible benchmarks, and lessons from experiments—including their limitations.
 
