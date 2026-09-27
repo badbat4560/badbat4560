@@ -22,6 +22,6 @@ I work on LLM quantization, efficient inference, retrieval and memory for agenti
 
 ### Find me
 
-[Hugging Face](https://huggingface.co/badbat4560) · [Hashnode](https://badbat4560.hashnode.dev) · [DEV](https://dev.to/badbat4560) · [Telegram](https://t.me/badbat4560) · [Habr](https://habr.com/ru/users/badbat/)
+[Hugging Face](https://huggingface.co/badbat4560) · [Hashnode](https://badbat4560.hashnode.dev) · [DEV](https://dev.to/badbat4560) · [Telegram](https://t.me/badbat4560)
 
 Python · PyTorch · vLLM · Triton · CUDA
